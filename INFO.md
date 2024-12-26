@@ -1,2 +1,2 @@
-No code No pain
-experiment with amend
+git is awesome!
+Hexlet is awesome too!
