@@ -1,0 +1,1 @@
+[![say-hello](https://github.com/ixpr/hexlet-git/actions/workflows/say-hello.yml/badge.svg)](https://github.com/ixpr/hexlet-git/actions/workflows/say-hello.yml)
