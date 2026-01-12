@@ -1,0 +1,15 @@
+{
+    "name": "amlgm/hexlet-git",
+    "autoload": {
+        "psr-4": {
+            "Amlgm\\HexletGit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ixpr",
+            "email": "contact@in-xeper.ru"
+        }
+    ],
+    "require": {}
+}
