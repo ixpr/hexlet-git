@@ -1,2 +1,2 @@
 say-hello:
-	php bin/hello
+	echo 'Hello, World!'
